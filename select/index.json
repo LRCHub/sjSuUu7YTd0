@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SODA!",
+  "base_artist": "Rei",
+  "createdAt": "2025-12-02T16:22:09.441122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ramune Soda",
+      "artist": "Oliver Francis",
+      "has_synced": false,
+      "path": "select/01_Ramune_Soda_Oliver_Francis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soda (feat. Take A Daytrip)",
+      "artist": "DJ Scheme feat. Cordae, Ski Mask The Slump God & Take A Daytrip",
+      "has_synced": true,
+      "path": "select/02_Soda_(feat._Take_A_Daytrip)_DJ_Scheme_feat._Cordae,_Ski_Mask_The_Slump_God_&_Take_A_Daytrip.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soda",
+      "artist": "DJ Scheme",
+      "has_synced": true,
+      "path": "select/03_Soda_DJ_Scheme.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ORANGE SODA",
+      "artist": "Baby Keem",
+      "has_synced": true,
+      "path": "select/04_ORANGE_SODA_Baby_Keem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Da Hoola (Soda-Pop mix)",
+      "artist": "Télépopmusik",
+      "has_synced": false,
+      "path": "select/05_Da_Hoola_(Soda-Pop_mix)_Télépopmusik.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pork Soda",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/06_Pork_Soda_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Goya Soda",
+      "artist": "Christine and the Queens",
+      "has_synced": true,
+      "path": "select/07_Goya_Soda_Christine_and_the_Queens.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soda",
+      "artist": "Dungen",
+      "has_synced": true,
+      "path": "select/08_Soda_Dungen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Suds & Soda",
+      "artist": "dEUS",
+      "has_synced": true,
+      "path": "select/09_Suds_&_Soda_dEUS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Melon Soda",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/10_Melon_Soda_tricot.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drown Soda",
+      "artist": "Hole",
+      "has_synced": false,
+      "path": "select/11_Drown_Soda_Hole.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drown Soda - Live",
+      "artist": "Hole",
+      "has_synced": false,
+      "path": "select/12_Drown_Soda_-_Live_Hole.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cherry Soda",
+      "artist": "Jaguar Love",
+      "has_synced": true,
+      "path": "select/13_Cherry_Soda_Jaguar_Love.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Programmable Soda",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/14_Programmable_Soda_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Programmable Soda",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/15_Programmable_Soda_Tori_Amos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SODA!",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_01_SODA!_Rei.txt"
+    }
+  ]
+}
